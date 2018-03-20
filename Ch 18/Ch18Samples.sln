@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 TemplatedMethods", "Ch18Samples\1 TemplatedMethods.csproj", "{335B001A-B8DE-4DAF-BD06-EFCB6EBFAFF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 TempletedClasses", "TempletedClasses\2 TempletedClasses.csproj", "{6F3F7DC9-FDB9-4E3C-AF6B-E65DE5A478E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 BoundGenericity", "BoundGenericity\3 BoundGenericity.csproj", "{7675431E-6311-453E-8526-E8E2134FE201}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{335B001A-B8DE-4DAF-BD06-EFCB6EBFAFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335B001A-B8DE-4DAF-BD06-EFCB6EBFAFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335B001A-B8DE-4DAF-BD06-EFCB6EBFAFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335B001A-B8DE-4DAF-BD06-EFCB6EBFAFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3F7DC9-FDB9-4E3C-AF6B-E65DE5A478E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3F7DC9-FDB9-4E3C-AF6B-E65DE5A478E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3F7DC9-FDB9-4E3C-AF6B-E65DE5A478E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3F7DC9-FDB9-4E3C-AF6B-E65DE5A478E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7675431E-6311-453E-8526-E8E2134FE201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7675431E-6311-453E-8526-E8E2134FE201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7675431E-6311-453E-8526-E8E2134FE201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7675431E-6311-453E-8526-E8E2134FE201}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

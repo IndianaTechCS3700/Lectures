@@ -1,0 +1,10 @@
+In Chapter 4 we described the static, or compile time aspects of classes.
+In this chapter we examine their run-time features:
+
+Message Passing Syntax
+Object Creation and Initialization (constructors)
+Accessing the Receiver from within a method
+Memory Management or garbage collection
+
+
+

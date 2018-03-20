@@ -1,0 +1,5 @@
+Our goal is to solve the eight queens problem by
+creating objects that work together to find a solution.
+
+Put another way, we want to create objects that find their 
+own solution.

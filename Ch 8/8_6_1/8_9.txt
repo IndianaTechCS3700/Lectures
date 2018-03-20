@@ -1,0 +1,8 @@
+﻿Cost of Inheritance
+
+Execution speed
+Program size
+Message Passing Overhead
+Program Complexity
+
+This does not mean you should not use inheritance, but rather than you must understand the benefits, and weigh the benefits against the costs.

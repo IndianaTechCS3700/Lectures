@@ -1,0 +1,9 @@
+﻿Benefits of Inheritance
+
+Software Reuse
+Code Sharing
+Improved Reliability
+Consistency of Interface
+Rapid Prototyping
+Polymorphism
+Information Hiding

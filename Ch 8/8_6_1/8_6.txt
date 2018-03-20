@@ -1,0 +1,30 @@
+﻿Forms of Inheritance
+
+The choices between inheritance and overriding, subclass and subtypes, mean that inheritance can be used in a 
+variety of different ways and for different purposes. Many of these types of inheritance are given their own 
+special names. We will describe some of these specialized forms of inheritance.
+
+Specialization - Each child class overrides a method inherited from the parent in order to specialize the 
+				class in some way.
+
+Specification - If the parent class is abstract, we often say that it is providing a specification for the 
+				child class, and therefore it is specification inheritance (a variety of specialization inheritance).
+
+Construction - If the parent class is used as a source for behavior, but the child class has no is-a relationship 
+				to the parent, then we say the child class is using inheritance for construction.
+			 - An example might be subclassing the idea of a Set from an existing List class.
+			 - Generally not a good idea, since it can break the principle of substitutability, 
+			   but nevertheless sometimes found in practice.
+
+Generalization or Extension - If a child class generalizes or extends the parent class by providing more functionality, 
+							  but does not override any method, we call it inheritance for generalization.
+							- The child class doesn't change anything inherited from the parent, it simply adds new features.
+
+Limitation - If a child class overrides a method inherited from the parent in a way that makes it unusable (for example, issues an error message), 
+			 then we call it inheritance for limitation.
+		   - For example, you have an existing List data type that allows items to be inserted at either end, and you override methods allowing 
+		     insertion at one end in order to create a Stack.
+
+Variance - Two or more classes that seem to be related, but its not clear who should be the parent and who should be the child.
+		 - Example: Mouse and TouchPad and JoyStick
+		 - Better solution, abstract out common parts to new parent class, and use subclassing for specialization.

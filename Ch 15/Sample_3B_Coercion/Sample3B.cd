@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sample_3B_Coercion.Dessert">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sample3C.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sample_3B_Coercion.Pie">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sample3C.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sample_3B_Coercion.ApplePie">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sample3C.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sample_3B_Coercion.Cake">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sample3C.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sample_3B_Coercion.ChocolateCake">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sample3C.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sample_3B_Coercion.Sample3C" Collapsed="true">
+    <Position X="5.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAAAgAAAAAIAAAAAAAAAQAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Sample3C.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

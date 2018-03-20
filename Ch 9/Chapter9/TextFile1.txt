@@ -1,0 +1,11 @@
+﻿The most important features of this case study:
+
+The use of inheritance and overriding in the card piles:
+* Reduces code development
+* Insures common behavior
+* Makes possible the polymorphic evaluation of draw and select
+
+The way we have isolated the card data and the card view
+* An abstract class for views
+* An implementation of the abstract class for .new specific implementation
+* How we have isolated the .net specific interface from the rest of the application.

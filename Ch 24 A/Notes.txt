@@ -1,0 +1,19 @@
+When faced with a new problem, where do you look for inspiration?
+
+Most people look to solutions of previous problems that have 
+similar characteristics.
+
+This insight is what is behind design patterns; collections 
+of proven ways to structure the relationships between objects 
+in the pursuit of a given objective.
+
+A pattern is really nothing ore than an attempt to document 
+a proven solution to a problem so that future problems can 
+be more easily handled in a similar fashion.
+
+
+Many patterns are involved with the concepts of dependency 
+we introduced in the previous chapter.
+
+Determining where strong dependencies are necessary, and 
+how to weaken dependencies whenever possible.
